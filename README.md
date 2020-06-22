@@ -5,4 +5,4 @@ Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module2-solution/
 # Module 3 Solution
 Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module3-solution/">Click here to view.</a><br>
 # Module 4 Solution
-Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module4-solution/harder/">Click here to view.</a><br>(Use the console tab in Chrome Developer Tools to view the output of the JavaScript files.<br>
+Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module4-solution/harder/">Click here to view.</a><br>(Use the console tab in Chrome Developer Tools to view the output of the JavaScript files.)<br>

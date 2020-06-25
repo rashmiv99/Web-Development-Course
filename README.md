@@ -7,4 +7,6 @@ Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module3-solution/
 <b>Module 4 Solution</b><br>
 Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module4-solution/harder/">Click here to view.</a><br>(Use the console tab in Chrome Developer Tools to view the output of the JavaScript files.)<br><br>
 <b>Module 5 Solution</b><br>
-Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module5-solution/">Click here to view.</a><br>
+Link: <a href="https://rashmiv99.github.io/Web-Development-JHU/module5-solution/">Click here to view.</a><br><br>
+# Certificate
+<a href="https://www.coursera.org/account/accomplishments/certificate/DXZPLZJDR87X">Verified Certificate</a><br>
